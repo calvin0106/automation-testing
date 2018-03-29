@@ -75,20 +75,20 @@ public class DriverScript {
 		//*********************************************Methods from Application_Lib.java************************************			
 		saFilteredTD = FunctionLib.MatchAndGetData(saWholeSetTD, "A001");
 		creditlogin.Frontend_login (oReport, "Login as member to "+ saFilteredTD[1], saFilteredTD[1], saFilteredTD[2], saFilteredTD[3]);
-		pk10.Lottery_PK10(oReport, "Verify that all games in 北京赛车(PK10) lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc2.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc3.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc4.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc5.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc6.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc7.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc8.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc9.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc10.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		cqssc11.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		//cqssc12.Lottery_CQSSC(oReport, "Verify that all games in 重庆时时彩 lottery are able to bet and bet record reflects in 未结明细 correctly.");
-		gxk3.Lottery_GXK3(oReport, "Verify that all games in 广西快3 lottery are able to bet and bet record reflects in 未结明细 correctly.");
+//		pk10.Lottery_PK10(oReport, "Verify that all games in åŒ—äº¬èµ›è½¦(PK10) lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc2.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc3.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc4.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc5.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc6.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc7.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc8.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc9.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc10.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		cqssc11.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+		//cqssc12.Lottery_CQSSC(oReport, "Verify that all games in é‡�åº†æ—¶æ—¶å½© lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
+//		gxk3.Lottery_GXK3(oReport, "Verify that all games in å¹¿è¥¿å¿«3 lottery are able to bet and bet record reflects in æœªç»“æ˜Žç»† correctly.");
 
 		//*********************************************Methods from Application_Lib.java************************************		
 		
